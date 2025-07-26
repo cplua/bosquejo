@@ -1,0 +1,19 @@
+Localhost – phpMyAdmin
+
+
+Datos del Administrador de página web:
+Nombre de usuario:
+cplua
+
+Contraseña:
+xkA2uZn^toIj16uKTu
+
+Nombre de la base de datos:
+Bdproyecto
+
+Correo electrónico:
+cima_1pg@hotmail.com
+
+Enlace de la página
+http://localhost/proyecto/wp-login.php
+
